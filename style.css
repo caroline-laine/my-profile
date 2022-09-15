@@ -1,0 +1,114 @@
+body{
+font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+h1 {
+    color: #371B58;
+}
+
+h1 {
+    text-align: center;
+    font-size: 85px ;
+}
+
+h2 {
+    color: #FF5677;
+}
+
+li{
+   color: #FFF8D5;
+}
+p {
+    color: #FFF8D5;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#photo-insta{
+    height: 30px;
+    width: 30px;
+}
+
+#photo-twitter{
+    height: 30px;
+    width: 30px;
+}
+
+#photo-youtube{
+    height: 30px;
+    width: 30px;
+}
+
+#photo-jul{
+    height: 200px;
+    width: 200px;
+}
+
+#photo-fondecran{
+    height: 100vh;
+    width: 100vw;
+    z-index: -2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+    opacity: 0.5;
+}
+
+#photo-jul4{
+    height: 200px;
+    width: 200px;
+}
+
+#photo-jul2{
+    height: 300px;
+    width: 300px;
+}
+
+div{
+
+    border: 8px solid #8b58de
+}
+
+.album {
+    text-align: center;
+}
+
+div{
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #292C6D;
+    margin: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+#contour1 {
+    border: 8px solid #513252;
+}
+
+#contour2 {
+border: 8px solid #7F5283;
+}
+
+#contour3 {
+    border: 8px solid #8b58de ;
+}
+
+#contour4 {
+    border: 8px solid #916BBF;
+}
+
+#contour5 {
+    border: 8px solid #9D84B7;
+}
+
+#contour6 {
+    border: 8px solid #C996CC ;
+}
+
+#contour7{ 
+    border: 8px solid #FFDEFA ;
+}
